@@ -1,0 +1,57 @@
+/* display flex */
+.df {
+  display: flex;
+}
+
+/* flex wrap */
+.fww {
+  flex-wrap: wrap;
+}
+
+/* flex direction */
+.fdc {
+  flex-direction: column;
+}
+
+.fdr {
+  flex-direction: row;
+}
+
+/* justify content */
+.jcc {
+  justify-content: center;
+}
+
+.jcs {
+  justify-content: flex-start;
+}
+
+.jcsb {
+  justify-content: space-between;
+}
+
+.jcse {
+  justify-content: space-evenly;
+}
+
+.jcse {
+  justify-content: space-around;
+}
+
+/* align items */
+.aic {
+  align-items: center;
+}
+
+.aicb {
+  align-items: baseline;
+}
+
+.aist {
+  align-items: stretch;
+}
+
+/* background-size */
+.bsc {
+  background-size: cover;
+}

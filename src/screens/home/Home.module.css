@@ -1,0 +1,46 @@
+.banner_area {
+  display: block;
+  background: url("../../assets/images/banner-bg.jpg") center;
+  background-size: cover;
+}
+
+.relative {
+  position: relative;
+}
+
+.banner_area .overlay_bg {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.block2 {
+  position: relative;
+  width: 100vw;
+  height: 850px;
+}
+
+.description {
+  color: white;
+  width: 500px;
+}
+
+.banner_button_area {
+  border: 1px solid #fff;
+  background: white;
+  color: black !important;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 48px;
+}
+
+.banner_button_area:hover {
+  background: transparent;
+  color: white !important;
+}

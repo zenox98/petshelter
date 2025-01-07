@@ -1,0 +1,7 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+article, figcaption, figure, footer, main, nav{
+    display: block;
+}
