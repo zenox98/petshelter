@@ -49,4 +49,7 @@ export default tseslint.config({
 })
 ```
 # petshelter
+<<<<<<< HEAD
 # petshelter
+=======
+>>>>>>> e55fdd5d523edd1495369321ccfadd7d7608cb09
